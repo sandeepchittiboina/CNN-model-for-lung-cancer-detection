@@ -73,4 +73,4 @@ kagglehub, tensorflow
 
 ## License
 
-Choose a license (e.g., MIT) and add it here.
+[Choose a license (e.g., MIT) and add it here.](https://www.mit.edu/~amini/LICENSE.md)
