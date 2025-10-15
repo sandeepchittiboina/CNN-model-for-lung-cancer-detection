@@ -19,9 +19,8 @@ This repository contains a Convolutional Neural Network (CNN) workflow for lung 
 
 - **Mentions in notebook:** CT, Kaggle, dataset, test, train, val
 - **Referenced paths:**
-  - `kagglehub.dataset_download("mdnafeesimtiaz/ct-scan-images-of-lung-cancer`
+  - `[kagglehub.dataset_download("mdnafeesimtiaz/ct-scan-images-of-lung-cancer](https://www.kaggle.com/datasets/mdnafeesimtiaz/ct-scan-images-of-lung-cancer/data)`
 
-> Replace with specific dataset details (source, license, preprocessing steps) if needed.
 
 ## Model Architecture
 
